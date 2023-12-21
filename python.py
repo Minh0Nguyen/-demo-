@@ -1,3 +1,2 @@
-print(Hello World)
-
-print(Another line)
+import numpy as np
+print(np.cbrt(2))
